@@ -126,30 +126,6 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-## 📸 Hardware & Simulation Outputs  
-
-The following results were captured during testing:
-
-### 🔹 LCD Startup & Initial Logging  
-<img width="1178" height="818" alt="Startup Screen" src="https://github.com/user-attachments/assets/22328169-ccee-4dba-abeb-58d693637b4a" />
-
----
-
-### 🔹 Menu Interface Screen  
-<img width="1174" height="754" alt="Menu Interface" src="https://github.com/user-attachments/assets/c836545a-8faa-4939-8cc3-75da38970268" />
-
----
-
-### 🔹 RTC Update Screen  
-<img width="1166" height="776" alt="RTC Update Screen" src="https://github.com/user-attachments/assets/dac6cf40-4e66-4da1-b41a-81957de35e90" />
-
----
-
-### 🔹 Real-Time Temperature Logging Screen  
-<img width="1170" height="780" alt="Temperature Logging" src="https://github.com/user-attachments/assets/example-temperature-logging.png" />
-
----
-
 ## 🚀 Future Enhancements  
 
 - SD Card / EEPROM Storage  
@@ -175,6 +151,30 @@ This project demonstrates:
 
 **Shivanjali Dhumal**  
 Embedded Systems | IoT | ARM Microcontrollers
+
+## 📸 Hardware & Simulation Outputs  
+
+The following results were captured during testing:
+
+### 🔹 LCD Startup & Initial Logging  
+<img width="1178" height="818" alt="Startup Screen" src="" />
+
+---
+
+### 🔹 Menu Interface Screen  
+<img width="1174" height="754" alt="Menu Interface" src="" />
+
+---
+
+### 🔹 RTC Update Screen  
+<img width="1166" height="776" alt="RTC Update Screen" src="" />
+
+
+### 🔹 Real-Time Temperature Logging Screen  
+<img width="1170" height="780" alt="Temperature Logging" src="" />
+
+
+---
 
 
 
