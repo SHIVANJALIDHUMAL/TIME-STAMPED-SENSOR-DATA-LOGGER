@@ -162,7 +162,7 @@ The following results were captured during testing:
 ---
 
 ### 🔹 Menu Interface Screen  
-<img width="1174" height="754" alt="Menu Interface" src="" />
+<img width="1174" height="754" alt="Menu Interface" src="Screenshot 2026-01-20 223120.png" />
 
 ---
 
