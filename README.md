@@ -170,7 +170,7 @@ The following results were captured during testing:
 <img width="1166" height="776" alt="RTC Update Screen" src="Screenshot 2026-01-20 223213.png" />
 
 
-### 🔹 Alert Message on UART  
+### 🔹 Alert Message on UART and LED ON 
 <img width="1170" height="780" alt="Temperature Logging" src="Screenshot 2026-01-20 223447.png" />
 
 
