@@ -157,7 +157,7 @@ Embedded Systems | IoT | ARM Microcontrollers
 The following results were captured during testing:
 
 ### 🔹 LCD Startup & Initial Logging  
-<img width="1178" height="818" alt="Startup Screen" src="" />
+<img width="1178" height="818" alt="Startup Screen" src="Screenshot_2026-01-20_223041.png.png" />
 
 ---
 
