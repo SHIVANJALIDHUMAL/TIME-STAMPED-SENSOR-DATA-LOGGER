@@ -167,7 +167,7 @@ The following results were captured during testing:
 ---
 
 ### 🔹 RTC Update Screen  
-<img width="1166" height="776" alt="RTC Update Screen" src="" />
+<img width="1166" height="776" alt="RTC Update Screen" src="Screenshot 2026-01-20 223213.png" />
 
 
 ### 🔹 Real-Time Temperature Logging Screen  
