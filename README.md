@@ -1,10 +1,10 @@
-# ⏱ TIME-STAMPED SENSOR DATA LOGGER  
+# TIME-STAMPED SENSOR DATA LOGGER  
 
 **LPC2124 / LPC21xx (ARM7TDMI-S) | Embedded C | Keil µVision | Proteus**
 
 ---
 
-## 📌 Project Description  
+##  Project Description  
 
 **TIME-STAMPED SENSOR DATA LOGGER** is a real-time embedded system developed using the **LPC2124 (ARM7TDMI-S)** microcontroller.  
 The system continuously acquires **analog temperature data (LM35)** using the ADC, synchronizes each reading with the **RTC**, and logs the data with **accurate time & date stamps**.
@@ -18,7 +18,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 
 - Acquire real-time sensor data using ADC  
 - Attach accurate timestamps using RTC  
@@ -28,19 +28,19 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-## ✨ Key Features  
+##  Key Features  
 
-- ⏰ RTC-based Time & Date Stamping  
-- 📊 Real-Time Sensor Data Logging  
-- 📟 LCD Menu Interface  
-- ⌨ Keypad Navigation  
-- 📡 UART Serial Monitoring  
-- 🚨 Over-Temperature Alert System  
-- 🧩 Modular Embedded C Architecture  
+-  RTC-based Time & Date Stamping  
+-  Real-Time Sensor Data Logging  
+-  LCD Menu Interface  
+-  Keypad Navigation  
+-  UART Serial Monitoring  
+-  Over-Temperature Alert System  
+-  Modular Embedded C Architecture  
 
 ---
 
-## 🧰 Hardware Requirements  
+##  Hardware Requirements  
 
 | Component      | Description               |
 |----------------|---------------------------|
@@ -54,7 +54,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-## 💻 Software Tools  
+## Software Tools  
 
 - Keil µVision  
 - Embedded C  
@@ -63,7 +63,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-## 🔌 Correct Pin Configuration (LPC2124)  
+## Correct Pin Configuration (LPC2124)  
 
 ### 📟 LCD (8-bit Mode)
 
@@ -76,7 +76,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-### ⌨ Keypad  
+###  Keypad  
 
 | Signal | MCU Pin     |
 |--------|-------------|
@@ -85,7 +85,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-### 📡 UART  
+###  UART  
 
 | Signal | MCU Pin |
 |--------|---------|
@@ -94,7 +94,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-### 📊 ADC  
+###  ADC  
 
 | Channel | MCU Pin |
 |---------|---------|
@@ -102,7 +102,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-### 🚨 LED / Buzzer  
+###  LED / Buzzer  
 
 | Device | MCU Pin |
 |--------|---------|
@@ -112,7 +112,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 ---
 
 
-## ⚙️ System Workflow
+##  System Workflow
 
 1. MCU Initialization  
 2. LCD + UART Startup  
@@ -126,7 +126,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-## 🚀 Future Enhancements  
+##  Future Enhancements  
 
 - SD Card / EEPROM Storage  
 - IoT Cloud Integration  
@@ -136,7 +136,7 @@ This project demonstrates **real-time data acquisition, time synchronization, pe
 
 ---
 
-## 🎓 Academic Relevance  
+##  Academic Relevance  
 
 This project demonstrates:
 
@@ -147,7 +147,7 @@ This project demonstrates:
 
 ---
 
-## 👩‍💻 Developed By  
+##  Developed By  
 
 **Shivanjali Dhumal**  
 Embedded Systems | IoT | ARM Microcontrollers
@@ -178,7 +178,7 @@ The following results were captured during testing:
 
 
 
-### 📁 Project Structure  
+###  Project Structure  
 
 ```bash
 Mini_Project/
